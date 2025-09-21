@@ -1,0 +1,1 @@
+Initial design specifications for Project Alpha. Current version: v1.0.
